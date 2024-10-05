@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  background-color: #66CCFF;
+  background-color: #d5f9bd;
   font-family: sans-serif;
 }
 #container {
@@ -19,9 +19,9 @@ body {
   font-size: 16px;
   margin: 10px;
   margin-right: 0px;
-  background-color: #0066FF;
+  background-color: #8ca1c2;
   color: #FFF;
-  border: 2px solid #0066FF;
+  border: 2px solid #8ca1c2;
   border-radius: 5px;
 }
 .todoListMain .header button:hover {
